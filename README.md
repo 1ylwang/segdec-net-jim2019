@@ -104,3 +104,4 @@ python -u segdec_print_eval.py $OUTPUT_FOLDER/segdec_eval/KolektorSDD-dilate=5/d
 ```
 
 Note: The model is sensitive to random data shuffles during the training and will lead to different performance with different runs.
+
